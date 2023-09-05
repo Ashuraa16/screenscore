@@ -6,14 +6,6 @@ A Movies listing app including search and favourite/unfavourite functionality
 
 > feel free to jump in to contribute
 
-## Preview
-
-
-
-https://user-images.githubusercontent.com/65730103/154234465-b12b353c-f4bf-4abe-b17e-15468058a16f.mp4
-
-
-
 ## Basic Features
 
 1. List of Movies with their IMDB rating
