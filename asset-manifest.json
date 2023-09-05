@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/screenscore/static/css/main.5125f232.css",
+    "main.js": "/screenscore/static/js/main.a67ec092.js",
+    "index.html": "/screenscore/index.html",
+    "main.5125f232.css.map": "/screenscore/static/css/main.5125f232.css.map",
+    "main.a67ec092.js.map": "/screenscore/static/js/main.a67ec092.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5125f232.css",
+    "static/js/main.a67ec092.js"
+  ]
+}
