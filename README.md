@@ -2,7 +2,7 @@
 
 A Movies listing app including search and favourite/unfavourite functionality
 
-> View this app [here..](https://chirag482.github.io/movies-app/)
+> View this app [here..](https://ashuraa16.github.io/screenscore/)
 
 > feel free to jump in to contribute
 
