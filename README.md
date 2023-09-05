@@ -6,6 +6,10 @@ A Movies listing app including search and favourite/unfavourite functionality
 
 > feel free to jump in to contribute
 
+## Preview
+
+https://clipchamp.com/watch/ZcumpcIO2Ha
+
 ## Basic Features
 
 1. List of Movies with their IMDB rating
